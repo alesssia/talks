@@ -1,0 +1,6 @@
+YAMP: a framework enabling reproducibility in metagenomics research
+
+Thanks to the increased cost-effectiveness of high-throughput technologies, the number of studies collecting and analysing large amounts of data has surged, opening new challenges for data analysis and research reproducibility. A ubiquitous lack of repeatability and reproducibility has in fact been observed, and unavailability of primary data and computational experimentation have been named as the major culprits, with variations across workstations and operating systems representing another obstacle. To overcome this issue, the use of tools allowing the development of containerised workflows have been proposed.
+Today, I will present “Yet Another Metagenomic Pipeline” (YAMP), a ready-to-use containerised workflow that processes raw shotgun metagenomics sequencing data up to the taxonomic and functional annotation. YAMP has been designed with the specific goals of enabling reproducible metagenomics analyses, facilitating collaborative projects, and helping researchers with limited computational experience who are approaching this  field of research. However, I will show how other areas of research would be aided by a more widespread use of containerised well-structured workflows.
+
+

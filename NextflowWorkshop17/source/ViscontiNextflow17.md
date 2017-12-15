@@ -197,7 +197,7 @@
 * My laptop
 
 
-	# executor = 'sge'
+	// executor = 'sge'
 
 </div>
 
