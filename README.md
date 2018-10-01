@@ -9,3 +9,8 @@
 
 *  [`Computational Biology Seminars`](./Crick17): Francis Crick Institute, London, December 2017 [Invited talk]
 *  [`Researc/hers code`](./Crick17), London, December 2017 [Invited talk]
+
+## Journal Club
+
+*  [`UnConference`](./unConference2018/): 1st [AI Club for Gender Minority](https://www.meetup.com/ai-club/) UnConference, London, September 2018 [Part of a JC series]
+
