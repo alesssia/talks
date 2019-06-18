@@ -1,0 +1,6 @@
+Reproducible shotgun metagenomic analysis with Nextflow and containers
+
+Thanks to the increased cost-effectiveness of high-throughput technologies, the number of studies collecting and analysing large amounts of data has surged, opening new challenges for data analysis and research reproducibility. To overcome these issues, containerised well-structured workflows have been proposed: they allow storage of every detail of the workflow execution, including the software’s versions and parameters, nullify system variations, and also facilitate collaborative projects by ensuring identical analysis processes.
+We developed a containerised well-structured workflow (YAMP, https://github.com/alesssia/YAMP) that, using state-of-the-art tools, processes raw shotgun metagenomics sequencing data up to the taxonomic and functional annotation. YAMP is implemented in Nextflow and is accompanied by a Docker and a Singularity container.
+Being based on Nextflow, YAMP runs on any UNIX-like system, provides out-of-the-box support for several job schedulers and for multiple cloud services, and its integration with Docker/Singularity is completely user transparent.
+We believe that YAMP represents a proof-of-concept that shows a simple way to enable reproducible and collaborative research.
